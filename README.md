@@ -2,7 +2,8 @@
 
 在全球化和数字化快速发展的今天，拥有一张能够跨境使用、支持多种充值方式的虚拟信用卡变得尤为重要。Fomecard作为一款无月费、无年费、无管理费的海外虚拟信用卡，提供了万事达卡和Visa卡的选项，支持微信、支付宝充值，适合广泛的在线支付场景，如ChatGPT、Midjourney、PayPal、Shopify和TikTok等。
 
-![image](https://github.com/samsumustafa3/Fomecard/assets/169782408/05cfc31f-292f-4a1f-ab90-fc0db1e4141c)
+![image](https://github.com/samsumustafa3/Fomecard/assets/169782408/677a076a-b039-43c0-b940-ce12a328d40d)
+
 
 ## Fomecard 特点
 
@@ -23,7 +24,7 @@
 ### 开通流程
 
 1. **访问 Fomecard 官网**  
-   打开 [Fomecard 官网](https://www.fomepay.com)。
+   打开 [Fomecard 官网](https://pc.fomecard.com/register?rc=V42820)
 
 2. **选择卡片类型**  
    根据需要选择万事达卡或Visa卡。
